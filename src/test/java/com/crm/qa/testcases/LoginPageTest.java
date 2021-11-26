@@ -36,7 +36,7 @@ public class LoginPageTest extends TestBase
 	@AfterMethod
 		public void teardown()
 		{
-		driver.quit();
+		driver.quit();// This will close the browser all session
 		}
 		
 	}

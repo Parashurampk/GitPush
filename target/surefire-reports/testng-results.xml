@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.crm.qa.testcases.LoginPageTest" duration-ms="21145" started-at="2021-11-23T13:46:34Z" finished-at="2021-11-23T13:46:55Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="21145" started-at="2021-11-23T13:46:34Z" finished-at="2021-11-23T13:46:55Z">
+      <class name="com.crm.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@1a407d53]" name="setup" is-config="true" duration-ms="18619" started-at="2021-11-23T13:46:34Z" finished-at="2021-11-23T13:46:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LoginTest()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@1a407d53]" name="LoginTest" duration-ms="1051" started-at="2021-11-23T13:46:52Z" finished-at="2021-11-23T13:46:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@1a407d53]" name="teardown" is-config="true" duration-ms="1318" started-at="2021-11-23T13:46:53Z" finished-at="2021-11-23T13:46:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.crm.qa.testcases.LoginPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.crm.qa.testcases.LoginPageTest -->
+</testng-results>
